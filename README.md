@@ -1,7 +1,7 @@
 # PyLucene Docker
 
-PyLucene Version: 10.0.0
-Java Version: 23 (Temurin)
+PyLucene Version: 10.0.0<br>
+Java Version: 23 (Temurin)<br>
 Python Version: 3.13.x
 
 ### Quick Reference
